@@ -1,0 +1,14 @@
+model_version: 1.0
+algorithm: LogisticRegression
+solver: lbfgs
+max_iter: 1000
+features:
+  - credit_utilization_ratio_woe
+  - debt_to_income_ratio_woe
+  - annual_income_woe
+  - employment_years_woe
+  - number_of_late_payments_12m_woe
+train_auc: 0.7573
+validation_auc: 0.7568
+oot_auc: 0.7674
+approved_for_scoring: false

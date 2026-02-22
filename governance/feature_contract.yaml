@@ -1,0 +1,7 @@
+model_name: credit_risk_logistic_v1
+features:
+  - annual_income_woe
+  - credit_utilization_ratio_woe
+  - debt_to_income_ratio_woe
+  - employment_years_woe
+  - number_of_late_payments_12m_woe

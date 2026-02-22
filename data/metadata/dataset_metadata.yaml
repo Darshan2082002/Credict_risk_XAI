@@ -1,0 +1,10 @@
+dataset_name: credit_scoring_woe_large_dataset
+train_file: data/processed/train.csv
+validation_file: data/processed/validation.csv
+oot_file: data/oot/oot.csv
+random_state: 42
+split_ratio:
+  train: 0.60
+  validation: 0.20
+  oot: 0.20
+approved_for_modeling: true

@@ -1,0 +1,8 @@
+target: default
+
+woe_features:
+  - credit_utilization_ratio_woe  
+  - debt_to_income_ratio_woe  
+  - annual_income_woe  
+  - employment_years_woe  
+  - number_of_late_payments_12m_woe  

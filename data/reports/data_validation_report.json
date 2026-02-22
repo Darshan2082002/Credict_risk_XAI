@@ -1,0 +1,32 @@
+{
+    "record_count": 50000,
+    "column_report": 20,
+    "defalut_rate": 0.23796,
+    "target_unique_values": [
+        0,
+        1
+    ],
+    "null_counts": {
+        "customer_id": 0,
+        "age": 0,
+        "annual_income": 0,
+        "employment_years": 0,
+        "credit_utilization_ratio": 0,
+        "number_of_open_accounts": 0,
+        "number_of_late_payments_12m": 0,
+        "debt_to_income_ratio": 0,
+        "loan_amount": 0,
+        "default": 0,
+        "credit_utilization_ratio_bin": 0,
+        "credit_utilization_ratio_woe": 0,
+        "debt_to_income_ratio_bin": 0,
+        "debt_to_income_ratio_woe": 0,
+        "annual_income_bin": 0,
+        "annual_income_woe": 0,
+        "employment_years_bin": 0,
+        "employment_years_woe": 0,
+        "number_of_late_payments_12m_bin": 0,
+        "number_of_late_payments_12m_woe": 0
+    },
+    "dataset_hash": "62c3fb8983a32d73a3452c4629f69c47ad1d05452a6fdda11902d6cd25af5cfa"
+}
