@@ -42,7 +42,7 @@ def explain_with_lime():
     print("\nLIME Explanation:")
     print(explanation.as_list())
 
-    explanation.show_in_notebook(show_table=True)
+    # explanation.show_in_notebook(show_table=True) # Not needed for standalone script
 
 
 if __name__ == "__main__":
