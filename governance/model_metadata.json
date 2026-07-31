@@ -1,0 +1,9 @@
+{
+  "model_name": "credit_risk_logistic_v1",
+  "training_date": "2026-02-22",
+  "algorithm": "Logistic Regression",
+  "features": 5,
+  "auc_train": 0.82,
+  "auc_test": 0.79,
+  "developer": "Your Name"
+}
